@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Aaron Levie",
+    "img_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790a1cff7b949_aaron-levie.jpeg",
+    "badges": [
+      "entrepreneur",
+      "technology",
+      "venture capitalist"
+    ]
+  },
+  {
+    "name": "Austin Kleon",
+    "img_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897902a54f7c0ec_austin-kleon.jpeg",
+    "badges": [
+      "author",
+      "educator",
+      "designer"
+    ]
+  },
+  {
+    "name": "Jane Jie Sun",
+    "img_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897901e3df7c0b1_jane-jie-sun.jpeg",
+    "badges": [
+      "entrepreneur",
+      "technology"
+    ]
+  },
+  {
+    "name": "Samy Kamkar",
+    "img_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897908369f79ab1_samy-kamkar.jpeg",
+    "badges": [
+      "technology",
+      "entrepreneur",
+      "scientist"
+    ]
+  },
+  {
+    "name": "Jack Ma",
+    "img_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790e013f7b96b_jack-ma.jpeg",
+    "badges": [
+      "entrepreneur",
+      "investor",
+      "technology"
+    ]
+  }
+]

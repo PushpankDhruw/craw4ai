@@ -1,0 +1,884 @@
+[
+  {
+    "id": 1,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1e7d4a9fa40f649f28155_sapiens.webp",
+    "amazon_link": "https://www.amazon.com/dp/0062316117",
+    "apple_link": "https://books.apple.com/us/book/sapiens/id819198260",
+    "people": 54
+  },
+  {
+    "id": 2,
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1e7c3905e206e3aa5b776_man%27s%20search%20for%20meaning.webp",
+    "amazon_link": "https://www.amazon.com/dp/0807014273",
+    "apple_link": "https://books.apple.com/us/book/mans-search-for-meaning/id476023633",
+    "people": 47
+  },
+  {
+    "id": 3,
+    "title": "Principles",
+    "author": "Ray Dalio",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1e9eb4a47bc4d0ce30f0e_principles.webp",
+    "amazon_link": "https://www.amazon.com/dp/1501124021",
+    "apple_link": "https://books.apple.com/us/book/principles/id1227608062",
+    "people": 35
+  },
+  {
+    "id": 4,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1e9b322aa440ddfc7effb_zero%20to%20one.webp",
+    "amazon_link": "https://www.amazon.com/dp/0753555190",
+    "apple_link": "https://books.apple.com/us/book/zero-to-one/id795977428",
+    "people": 32
+  },
+  {
+    "id": 5,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1e9d36bdb428592bc228e_thinking%2C%20fast%20and%20slow.webp",
+    "amazon_link": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+    "apple_link": "https://books.apple.com/us/book/thinking-fast-and-slow/id443149884",
+    "people": 31
+  },
+  {
+    "id": 6,
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1e9a262ab922cf792951d_the%20hard%20thing%20about%20hard%20things.webp",
+    "amazon_link": "https://www.amazon.com/dp/0062273205",
+    "apple_link": "https://books.apple.com/us/book/the-hard-thing-about-hard-things/id668832574",
+    "people": 29
+  },
+  {
+    "id": 7,
+    "title": "The 4-Hour Workweek",
+    "author": "Tim Ferriss",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1e9586c809fb9fa4f7c40_61cb87c1189790352df79a2c_the-4-hour-workweek.webp",
+    "amazon_link": "https://www.amazon.com/dp/0307465357",
+    "apple_link": "https://books.apple.com/us/book/the-4-hour-workweek-expanded-and-updated/id419259551",
+    "people": 29
+  },
+  {
+    "id": 8,
+    "title": "Influence",
+    "author": "Robert B. Cialdini, PhD",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1ecd90935489a93d348a0_influence.webp",
+    "amazon_link": "https://www.amazon.com/dp/006124189X",
+    "apple_link": "https://books.apple.com/us/book/influence/id360625697",
+    "people": 29
+  },
+  {
+    "id": 9,
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1eccb23da752d5bcff9bd_shoe%20dog.webp",
+    "amazon_link": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike/dp/1501135910",
+    "apple_link": "https://books.apple.com/us/book/shoe-dog/id1052919171",
+    "people": 28
+  },
+  {
+    "id": 10,
+    "title": "Atlas Shrugged",
+    "author": "Ayn Rand",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790193ff79a99_atlas-shrugged.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0452011876",
+    "apple_link": "https://books.apple.com/us/book/atlas-shrugged/id357923151",
+    "people": 26
+  },
+  {
+    "id": 11,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1ecb90935483f80d3470e_meditations.webp",
+    "amazon_link": "https://www.amazon.com/dp/1719129274",
+    "apple_link": "https://books.apple.com/us/book/meditations/id420344981?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 25
+  },
+  {
+    "id": 12,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1ec9862ab9238a692becc_the%20alchemist.webp",
+    "amazon_link": "https://www.amazon.com/dp/0062315005",
+    "apple_link": "https://books.apple.com/us/book/the-alchemist/id972750690",
+    "people": 25
+  },
+  {
+    "id": 13,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1ec73115aaa298a9b50b1_atomic%20habits.webp",
+    "amazon_link": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/",
+    "apple_link": "https://books.apple.com/us/book/atomic-habits/id1384286945",
+    "people": 25
+  },
+  {
+    "id": 14,
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1ec8875f2c7cadb2971c6_the%20innovators%20dilemma.webp",
+    "amazon_link": "https://www.amazon.com/dp/1633691780",
+    "apple_link": "https://books.apple.com/us/book/the-innovators-dilemma/id1024726235",
+    "people": 25
+  },
+  {
+    "id": 15,
+    "title": "The War of Art",
+    "author": "Steven Pressfield",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e1eca66bdb427801bc7c98_the%20war%20of%20art.webp",
+    "amazon_link": "https://www.amazon.com/dp/1936891026",
+    "apple_link": "https://books.apple.com/us/book/the-war-of-art/id641900252",
+    "people": 23
+  },
+  {
+    "id": 16,
+    "title": "High Output Management",
+    "author": "Andrew Grove",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897907accf79a47_high-output-management.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0679762884",
+    "apple_link": "https://books.apple.com/us/book/high-output-management/id1046431786",
+    "people": 22
+  },
+  {
+    "id": 17,
+    "title": "How To Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790b925f794ab_how-to-win-friends-and-influence-people.jpeg",
+    "amazon_link": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/1439167346",
+    "apple_link": "https://books.apple.com/us/book/how-to-win-friends-influence-people/id383370070?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 20
+  },
+  {
+    "id": 18,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897900b48f794a9_steve-jobs.jpeg",
+    "amazon_link": "https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537",
+    "apple_link": "https://books.apple.com/us/book/steve-jobs/id431617578?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 20
+  },
+  {
+    "id": 19,
+    "title": "Antifragile",
+    "author": "Nassim Nicholas Taleb",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979017abf79ae4_antifragile.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0812979680",
+    "apple_link": "https://books.apple.com/us/book/antifragile/id522380506",
+    "people": 20
+  },
+  {
+    "id": 20,
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897907501f79aef_harry-potter.jpeg",
+    "amazon_link": "https://www.amazon.com/Harry-Potter-Paperback-Box-Books/dp/0545162076/",
+    "apple_link": "https://books.apple.com/us/book/harry-potter-the-complete-collection-1-7/id1138308547?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 19
+  },
+  {
+    "id": 21,
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790ea03f79ac8_good-to-great.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0066620996",
+    "apple_link": "https://books.apple.com/us/book/good-to-great/id446886360?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 19
+  },
+  {
+    "id": 22,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897905cf5f79506_dune.jpeg",
+    "amazon_link": "https://www.amazon.com/Dune-Chronicles-Book-1/dp/0441013597",
+    "apple_link": "https://books.apple.com/us/book/dune/id597944491?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 19
+  },
+  {
+    "id": 23,
+    "title": "Mindset",
+    "author": "Carol S. Dweck",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979036adf79ad9_mindset.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0345472322",
+    "apple_link": "https://books.apple.com/us/book/mindset/id422549774?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 18
+  },
+  {
+    "id": 24,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790ac3df79b06_the-lean-startup.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0307887898",
+    "apple_link": "https://books.apple.com/us/book/the-lean-startup/id422540072",
+    "people": 18
+  },
+  {
+    "id": 25,
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790c834f79ac6_outliers.jpeg",
+    "amazon_link": "https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922",
+    "apple_link": "https://books.apple.com/us/book/outliers/id357396748?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 18
+  },
+  {
+    "id": 26,
+    "title": "1984",
+    "author": "George Orwell",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897905cdff79a5f_1984.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0451524934",
+    "apple_link": "https://books.apple.com/us/book/1984/id427503546",
+    "people": 18
+  },
+  {
+    "id": 27,
+    "title": "\"Surely You're Joking, Mr. Feynman!\"",
+    "author": "Richard P. Feynman",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790165cf797df_what-do-you-care-what-other-people-think.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0393355624",
+    "apple_link": "https://books.apple.com/us/book/surely-youre-joking-mr-feynman-adventures-curious-character/id1314567348",
+    "people": 18
+  },
+  {
+    "id": 28,
+    "title": "The Black Swan",
+    "author": "Nassim Nicholas Taleb",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979050c8f794f4_the-black-swan.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/081297381X",
+    "apple_link": "https://books.apple.com/us/book/the-black-swan-second-edition/id419951583?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 18
+  },
+  {
+    "id": 29,
+    "title": "Elon Musk",
+    "author": "Ashlee Vance",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897900d3af7a5d0_elon-musk.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/006230125X",
+    "apple_link": "https://books.apple.com/us/book/elon-musk/id887481567?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 16
+  },
+  {
+    "id": 30,
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897902a58f79acb_the-four-agreements.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1878424319",
+    "apple_link": "https://books.apple.com/us/book/the-four-agreements/id364290050?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 16
+  },
+  {
+    "id": 31,
+    "title": "Range",
+    "author": "David Epstein",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979020a0f7ac88_range.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/B07H1ZYWTM",
+    "apple_link": "https://books.apple.com/us/book/range/id1435005899?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 16
+  },
+  {
+    "id": 32,
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790cf1df79aba_snow-crash.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0553380958",
+    "apple_link": "https://books.apple.com/us/book/snow-crash/id419950761?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 16
+  },
+  {
+    "id": 33,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790bae6f79abe_the-lord-of-the-rings.jpeg",
+    "amazon_link": "https://www.amazon.com/Lord-Rings-50th-Anniversary-Vol/dp/0618645616",
+    "apple_link": "https://books.apple.com/us/book/the-lord-of-the-rings/id503019669",
+    "people": 15
+  },
+  {
+    "id": 34,
+    "title": "Essentialism",
+    "author": "Greg McKeown",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897904cfbf7a5e8_essentialism.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0753555166",
+    "apple_link": "https://books.apple.com/us/book/essentialism/id730186570?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 15
+  },
+  {
+    "id": 35,
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897909e4ef79abb_the-selfish-gene.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0198788606",
+    "apple_link": "https://books.apple.com/us/book/the-selfish-gene/id1122583833",
+    "people": 15
+  },
+  {
+    "id": 36,
+    "title": "Tools of Titans",
+    "author": "Tim Ferriss",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979025c6f79507_tools-of-titans.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1328683788",
+    "apple_link": "https://books.apple.com/us/book/tools-of-titans/id1149615754?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 15
+  },
+  {
+    "id": 37,
+    "title": "Skin in the Game",
+    "author": "Nassim Nicholas Taleb",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979013f0f79fcd_skin-in-the-game.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0141982659",
+    "apple_link": "https://books.apple.com/us/book/skin-in-the-game/id1281317574?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 15
+  },
+  {
+    "id": 38,
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790bb50f79ac0_siddhartha.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1519150245",
+    "apple_link": "https://books.apple.com/us/book/siddhartha/id1517836430?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 15
+  },
+  {
+    "id": 39,
+    "title": "12 Rules for Life",
+    "author": "Jordan Peterson",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979066c8f794c2_12-rules-for-life.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0345816021",
+    "apple_link": "https://books.apple.com/us/book/12-rules-for-life/id1150863560",
+    "people": 14
+  },
+  {
+    "id": 40,
+    "title": "Tao Te Ching",
+    "author": "Lao Tzu",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790cefbf79900_tao-te-ching.jpeg",
+    "amazon_link": "https://www.amazon.com/Tao-Te-Ching-Perennial-Classics-dp-0061142662/dp/0061142662",
+    "apple_link": "https://books.apple.com/us/book/tao-te-ching/id360603144?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 14
+  },
+  {
+    "id": 41,
+    "title": "How to Change Your Mind",
+    "author": "Michael Pollan",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979044dcf79abf_how-to-change-your-mind.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/B076GPJXWZ",
+    "apple_link": "https://books.apple.com/us/book/how-to-change-your-mind/id1296650291?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 14
+  },
+  {
+    "id": 42,
+    "title": "The Three-Body Problem",
+    "author": "Cixin Liu",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897903520f7a01b_the-three-body-problem.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0765382032",
+    "apple_link": "https://books.apple.com/us/book/the-three-body-problem/id856893409",
+    "people": 14
+  },
+  {
+    "id": 43,
+    "title": "The Fountainhead",
+    "author": "Ayn Rand",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790610bf79a7d_the-fountainhead.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0141188626",
+    "apple_link": "https://books.apple.com/us/book/the-fountainhead/id357919300",
+    "people": 14
+  },
+  {
+    "id": 44,
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897904a21f79d1f_the-intelligent-investor.jpeg",
+    "amazon_link": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661",
+    "apple_link": "https://books.apple.com/us/book/the-intelligent-investor-rev-ed/id363689140",
+    "people": 14
+  },
+  {
+    "id": 45,
+    "title": "Loonshots",
+    "author": "Safi Bahcall",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979026c1f7ab43_loonshots.jpeg",
+    "amazon_link": "https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries/dp/1250185963",
+    "apple_link": "https://books.apple.com/us/book/loonshots/id1409694572",
+    "people": 14
+  },
+  {
+    "id": 46,
+    "title": "The Lessons of History",
+    "author": "Will & Ariel Durant",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897907d50f79b01_the-lessons-of-history.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/143914995X",
+    "apple_link": "https://books.apple.com/us/book/the-lessons-of-history/id541673844",
+    "people": 14
+  },
+  {
+    "id": 47,
+    "title": "The Ride of a Lifetime",
+    "author": "Robert Iger",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897901515f79b0f_the-ride-of-a-lifetime.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0399592091",
+    "apple_link": "https://books.apple.com/us/book/the-ride-of-a-lifetime/id1458284040",
+    "people": 14
+  },
+  {
+    "id": 48,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979049d2f79af6_the-catcher-in-the-rye.jpeg",
+    "amazon_link": "https://www.amazon.com/Catcher-Rye-J-D-Salinger/dp/0316769533",
+    "apple_link": "https://books.apple.com/us/book/the-catcher-in-the-rye/id1472978799?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 13
+  },
+  {
+    "id": 49,
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790b3f0f79afc_the-power-of-habit.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/081298160X",
+    "apple_link": "https://books.apple.com/us/book/the-power-of-habit/id446670958",
+    "people": 13
+  },
+  {
+    "id": 50,
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897901b2ff79ace_guns-germs-and-steel.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0393354326",
+    "apple_link": "https://books.apple.com/us/book/guns-germs-and-steel-the-fates-of-human-societies/id1207409071?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 13
+  },
+  {
+    "id": 51,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897902e59f79b00_the-great-gatsby.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0743273567",
+    "apple_link": "https://books.apple.com/us/book/the-great-gatsby/id381724898?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 13
+  },
+  {
+    "id": 52,
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790bb66f7b8df_when-breath-becomes-air.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/081298840X",
+    "apple_link": "https://books.apple.com/us/book/when-breath-becomes-air/id1013562747",
+    "people": 13
+  },
+  {
+    "id": 53,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoyevsky",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979069c9f79b20_crime-and-punishment.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0486415872",
+    "apple_link": "https://books.apple.com/us/book/crime-and-punishment/id548536660?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 13
+  },
+  {
+    "id": 54,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897902369f79ad3_brave-new-world.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0060850523",
+    "apple_link": "https://books.apple.com/us/book/brave-new-world-revisited/id867233085?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 12
+  },
+  {
+    "id": 55,
+    "title": "The Courage to Be Disliked",
+    "author": "Ichiro Kishimi",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/6330912324771a72e17bd339_81NPuoFXtjL.webp",
+    "amazon_link": "https://www.amazon.com/dp/1501197274",
+    "apple_link": "https://books.apple.com/us/book/the-courage-to-be-disliked/id1329478953?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 12
+  },
+  {
+    "id": 56,
+    "title": "The Checklist Manifesto",
+    "author": "Atul Gawande",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790760af79a7e_the-checklist-manifesto.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0312430000",
+    "apple_link": "https://books.apple.com/us/book/the-checklist-manifesto/id378317821?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 12
+  },
+  {
+    "id": 57,
+    "title": "Fooled by Randomness",
+    "author": "Nassim Nicholas Taleb",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790ab9cf79ac7_fooled-by-randomness.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0812975219",
+    "apple_link": "https://books.apple.com/us/book/fooled-by-randomness/id419979120?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 12
+  },
+  {
+    "id": 58,
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979029d3f79aca_the-art-of-war.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1599869772",
+    "apple_link": "https://books.apple.com/us/book/the-art-of-war/id395534623?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 12
+  },
+  {
+    "id": 59,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897906f59f7a596_deep-work.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1455586692",
+    "apple_link": "https://books.apple.com/us/book/deep-work/id991831052",
+    "people": 12
+  },
+  {
+    "id": 60,
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790a0f9f79afb_the-7-habits-of-highly-effective-people.jpeg",
+    "amazon_link": "https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619/",
+    "apple_link": "https://books.apple.com/us/book/the-7-habits-of-highly-effective-people/id961774490?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 12
+  },
+  {
+    "id": 61,
+    "title": "Creativity, Inc.",
+    "author": "Ed Catmull",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897906d00f79b2b_creativity-inc.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0593070100",
+    "apple_link": "https://books.apple.com/us/book/creativity-inc/id733503589",
+    "people": 12
+  },
+  {
+    "id": 62,
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790c0adf7b1cb_the-design-of-everyday-things.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0465050654",
+    "apple_link": "https://books.apple.com/us/book/the-design-of-everyday-things/id1209990641?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 12
+  },
+  {
+    "id": 63,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61dcce2c4fab2cd9241068bb_Psychology%20of%20Money.jpg",
+    "amazon_link": "https://www.amazon.com/Psychology-Money-hardback-Timeless-happiness/dp/0857199099",
+    "apple_link": "https://books.apple.com/ca/book/the-psychology-of-money/id1518559900",
+    "people": 11
+  },
+  {
+    "id": 64,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897902088f79adc_animal-farm.jpeg",
+    "amazon_link": "https://www.amazon.com/Animal-Farm-Fairy-George-Orwell/dp/0452277507",
+    "apple_link": "https://books.apple.com/us/book/animal-farm/id427503552?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 65,
+    "title": "Benjamin Franklin",
+    "author": "Walter Isaacson",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897904b5af79ac5_benjamin-franklin-walter-isaacson.jpeg",
+    "amazon_link": "https://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/0684807610",
+    "apple_link": "https://books.apple.com/us/book/benjamin-franklin/id381686894?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 66,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897902430f79ade_anna-karenina.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0143035002",
+    "apple_link": "https://books.apple.com/us/book/anna-karenina-oprah-5/id357922625?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 67,
+    "title": "Why We Sleep",
+    "author": "Matthew Walker",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979052ecf7a041_why-we-sleep.jpeg",
+    "amazon_link": "https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316",
+    "apple_link": "https://books.apple.com/us/book/why-we-sleep/id1227603550",
+    "people": 11
+  },
+  {
+    "id": 68,
+    "title": "The Undoing Project",
+    "author": "Michael Lewis",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790c9a7f7a01e_the-undoing-project.jpeg",
+    "amazon_link": "https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593",
+    "apple_link": "https://books.apple.com/us/book/the-undoing-project-a-friendship-that-changed-our-minds/id1120281451?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 69,
+    "title": "The Effective Executive",
+    "author": "Peter F. Drucker",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897907703f79adb_the-effective-executive.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0060833459",
+    "apple_link": "https://books.apple.com/us/book/the-effective-executive/id1110078836?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 70,
+    "title": "Made to Stick",
+    "author": "Chip & Dan Heath",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979065fbf7ab54_made-to-stick.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1400064287",
+    "apple_link": "https://books.apple.com/us/book/made-to-stick/id419280556?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 71,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e565d67fe912317a258b9c_61cde09bfd4fa645a880434c_91ieFVjGmVL.webp",
+    "amazon_link": "https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202",
+    "apple_link": "https://books.apple.com/ca/book/project-hail-mary/id1526997052",
+    "people": 11
+  },
+  {
+    "id": 72,
+    "title": "High Growth Handbook",
+    "author": "Elad Gil",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790627ef7a8e8_high-growth-handbook.jpeg",
+    "amazon_link": "https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100",
+    "apple_link": "https://books.apple.com/us/book/high-growth-handbook/id1412129436?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 73,
+    "title": "Extreme Ownership",
+    "author": "Jocko Willink",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979037eff79f78_extreme-ownership.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1250183863",
+    "apple_link": "https://books.apple.com/us/book/extreme-ownership/id1271391269?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 74,
+    "title": "Crossing the Chasm",
+    "author": "Geoffrey A. Moore",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897905a19f79ae6_crossing-the-chasm.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0060517123",
+    "apple_link": "https://books.apple.com/us/book/crossing-the-chasm-3rd-edition/id660532793?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 75,
+    "title": "The Score Takes Care of Itself",
+    "author": "Bill Walsh",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979005fbf79b16_the-score-takes-care-of-itself.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1591843472",
+    "apple_link": "https://books.apple.com/us/book/the-score-takes-care-of-itself/id357990916",
+    "people": 11
+  },
+  {
+    "id": 76,
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897901a53f79ad0_zen-and-the-art-of-motorcycle-maintenance.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0060839872",
+    "apple_link": "https://books.apple.com/us/book/zen-and-the-art-of-motorcycle-maintenance/id360625670",
+    "people": 11
+  },
+  {
+    "id": 77,
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790c0eaf79f87_homo-deus.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0062464345",
+    "apple_link": "https://books.apple.com/us/book/homo-deus/id1080273012?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 11
+  },
+  {
+    "id": 78,
+    "title": "Traction",
+    "author": "Gabriel Weinberg & Justin Mares",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897905d86f7bc37_traction.jpeg",
+    "amazon_link": "https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533/",
+    "apple_link": "https://books.apple.com/us/book/traction/id977450633",
+    "people": 10
+  },
+  {
+    "id": 79,
+    "title": "Originals",
+    "author": "Adam Grant",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790ab9ef79bed_originals.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/014312885X",
+    "apple_link": "https://books.apple.com/us/book/originals/id993984553?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 80,
+    "title": "Predictably Irrational",
+    "author": "Dan Ariely",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790da04f7ac6b_predictably-irrational.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0061353248",
+    "apple_link": "https://books.apple.com/us/book/predictably-irrational-revised-and-expanded-edition/id360638697?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 81,
+    "title": "Bird by Bird",
+    "author": "Anne Lamott",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790603cf79ab8_bird-by-bird.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0385480016",
+    "apple_link": "https://books.apple.com/us/book/bird-by-bird/id419292186?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 82,
+    "title": "The Better Angels of Our Nature",
+    "author": "Steven Pinker",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979019c9f79911_the-better-angels-of-our-nature.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0143122010",
+    "apple_link": "https://books.apple.com/us/book/the-better-angels-of-our-nature/id440418090",
+    "people": 10
+  },
+  {
+    "id": 83,
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897908654f7c63b_the-alamack-of-naval-ravikant.jpg",
+    "amazon_link": "https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness-ebook/dp/B08FF8MTM6",
+    "apple_link": "https://books.apple.com/us/book/the-almanack-of-naval-ravikant/id1527296528?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 84,
+    "title": "The Obstacle Is the Way",
+    "author": "Ryan Holiday",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897904c17f79acf_the-obstacle-is-the-way.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1591846358",
+    "apple_link": "https://books.apple.com/us/book/the-obstacle-is-the-way/id731075934?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 85,
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c118979092f8f79c31_start-with-why.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1591846447",
+    "apple_link": "https://books.apple.com/us/book/start-with-why/id357917413?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 86,
+    "title": "The Beginning of Infinity",
+    "author": "David Deutsch",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897908231f79ae1_the-beginning-of-infinity.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0143121359",
+    "apple_link": "https://books.apple.com/us/book/the-beginning-of-infinity/id451546463?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 87,
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790b2dcf79b23_enders-game.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0312853238",
+    "apple_link": "https://books.apple.com/us/book/enders-game-boxed-set/id707372715?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 88,
+    "title": "Einstein",
+    "author": "Walter Isaacson",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897903fb2f79ac1_einstein.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0743264746",
+    "apple_link": "https://books.apple.com/us/book/einstein/id381613216?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 89,
+    "title": "Stumbling on Happiness",
+    "author": "Daniel Todd Gilbert",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790961bf79ae3_stumbling-on-happiness.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1400077427",
+    "apple_link": "https://books.apple.com/us/book/stumbling-on-happiness/id419282386?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 90,
+    "title": "Finite and Infinite Games",
+    "author": "James Carse",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790ccb0f79ad8_finite-and-infinite-games.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1476731713",
+    "apple_link": "https://books.apple.com/us/book/finite-and-infinite-games/id431617434?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 91,
+    "title": "Factfulness",
+    "author": "Hans Rosling",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897907624f79aeb_factfulness.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1250107814",
+    "apple_link": "https://books.apple.com/us/book/factfulness/id1320917749",
+    "people": 10
+  },
+  {
+    "id": 92,
+    "title": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897909f9af79cdb_the-e-myth-revisited.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0887307280",
+    "apple_link": "https://books.apple.com/us/book/the-e-myth-revisited/id363686639?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 93,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62e565fff3361031191fabf8_61cb87c11897907750f7a005_the-martian.webp",
+    "amazon_link": "https://www.amazon.com/dp/0553418025",
+    "apple_link": "https://books.apple.com/us/book/the-martian/id721429965",
+    "people": 10
+  },
+  {
+    "id": 94,
+    "title": "Superintelligence",
+    "author": "Nick Bostrom",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790eaa0f79ae5_superintelligence.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/0198739834",
+    "apple_link": "https://books.apple.com/us/book/superintelligence/id899568056?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 95,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/62b2134576b43bd6cbf1caa3_The%20Hitch-Hiker%27s%20Guide%20to%20The%20Galaxy%20.jpg",
+    "amazon_link": "https://www.amazon.com/dp/0345418913",
+    "apple_link": "https://books.apple.com/us/book/the-hitchhikers-guide-to-the-galaxy/id419921448?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 96,
+    "title": "How Not to Die",
+    "author": "Dr. Michael Greger",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897901bd8f7bdb7_how-not-to-die.jpeg",
+    "amazon_link": "https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115/",
+    "apple_link": "https://books.apple.com/us/book/how-not-to-die/id1021177689?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 97,
+    "title": "Digital Minimalism",
+    "author": "Cal Newport",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790de71f7ba14_digital-minimalism.jpeg",
+    "amazon_link": "https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/",
+    "apple_link": "https://books.apple.com/us/book/digital-minimalism/id1390361003?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  },
+  {
+    "id": 98,
+    "title": "Blitzscaling",
+    "author": "Reid Hoffman",
+    "cover_url": "https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c1189790554df79b29_blitzscaling.jpeg",
+    "amazon_link": "https://www.amazon.com/dp/1524761419",
+    "apple_link": "https://books.apple.com/us/book/blitzscaling/id1338794788?itsct=books_toolbox&itscg=30200&at=1000l35AS&ls=1",
+    "people": 10
+  }
+]
